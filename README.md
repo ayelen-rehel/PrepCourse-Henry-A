@@ -1,2 +1,1 @@
-# PrepCourse-Henry-A
-Repositorio del modulo2 prepcourse henry
+Este proyecto es una pueba de como crear un repositorio y clonarlo a mi repositorio local
